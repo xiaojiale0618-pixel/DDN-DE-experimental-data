@@ -2,7 +2,7 @@
 
 Supplementary experimental data and comprehensive statistical results for the paper "DDN-DE: A Dynamic Diverse Neighborhoods-based Differential Evolution Algorithm with Self-learning Control Parameters".
 
-Due to the manuscript's length limits, this repository provides the following extended experimental results to ensure the reproducibility and transparency of our research:
+Due to the manuscript's length limits, this repository provides the following extended experimental results :
 
 ---
 
