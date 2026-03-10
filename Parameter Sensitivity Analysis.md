@@ -1,13 +1,10 @@
-# DDN-DE-experimental-data
-Supplementary experimental data and comprehensive statistical results for the paper "DDN-DE: A Dynamic Diverse Neighborhoods-based Differential Evolution Algorithm with Self-learning Control Parameters".
-Due to the manuscript's length limits, this repository provides the extended parameter sensitivity analysis results to ensure the reproducibility and transparency of our research.
 
 ---
 
 ## ⚙️ Parameter Sensitivity Analysis
+> **Note:** These extended data tables correspond to **Section 4.2 (Parameter Sensitivity Analysis)** of the main manuscript.
 
 In our proposed DDN-DE algorithm, achieving an optimal balance between exploration and exploitation relies on specific control parameters. We conducted sensitivity analyses on the CEC2017 benchmark suite ($D=30$) using the Wilcoxon rank-sum test at a significance level of $\alpha = 0.05$.
-
 ### 💡 How to read the tables
 The statistical results in the tables are denoted by the format `+ / - / =`:
 * **`+` (Better):** The number of test functions where the row parameter significantly outperforms the column parameter.
